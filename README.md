@@ -1,7 +1,7 @@
 # Network-automation-telnet-python
 
 
-These scripts are part of my Network automation development. The goal was to start automating network tasks with in the easiest possible way. Telnetlib was the perfect choice, with cost of no traffic encryption. Scripts include:
+These scripts are part of my Network automation development. The goal was to start automating network tasks  in the easiest possible way. Telnetlib was the perfect choice, with cost of no traffic encryption. Scripts include:
 
 1. Using telnetlib to connect to a Cisco device
 2. Create VLAN using telnetlib and python
